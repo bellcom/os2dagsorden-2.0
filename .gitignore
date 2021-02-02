@@ -6,7 +6,7 @@ tmp
 cron
 sites/default/files
 public_html_before_gitlist
-
+.DS_Store
 os2dagsorden_ballerup_dk.sql
 public_html/profiles/os2dagsorden/libraries/dompdf/lib/fonts/Helvetica-BoldOblique.afm.php
 public_html/profiles/os2dagsorden/libraries/dompdf/lib/fonts/Helvetica-Bold.afm.php
