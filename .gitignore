@@ -14,3 +14,11 @@ public_html/profiles/os2dagsorden/libraries/dompdf/lib/fonts/Helvetica-Oblique.a
 public_html/profiles/os2dagsorden/libraries/dompdf/lib/fonts/Helvetica.afm.php
 public_html/profiles/os2dagsorden/libraries/dompdf/lib/fonts/Times-Bold.afm.php
 public_html/sites/all/modules/stage_file_proxy/
+
+
+# Ignore cert
+*.pem
+*.crt
+*.key
+*.csr
+/.htaccess
